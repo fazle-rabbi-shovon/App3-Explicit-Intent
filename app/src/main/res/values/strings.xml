@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intent Activity</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="activity2">Activity2</string>
+    <string name="activity3">Activity3</string>
+    <string name="value_from_activity_3">Value from activity 3</string>
+    <string name="please_enter_your_surname">Please enter your surname</string>
+    <string name="submit">SUBMIT</string>
+    <string name="textview">TextView</string>
+    <string name="data_came_from_activity3">data came from activity3</string>
+</resources>
